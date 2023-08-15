@@ -6,4 +6,4 @@
 
 <img width="1440" alt="Снимок экрана 2023-08-15 в 21 41 59" src="https://github.com/tetianaom/goit-node-hw-01/assets/111342334/6c399cb0-4191-475a-902d-5e9f1a851d61">
 
-<img width="1440" alt="Снимок экрана 2023-08-15 в 21 54 22" src="https://github.com/tetianaom/goit-node-hw-01/assets/111342334/b938a329-c297-4a48-88e6-f8e7695a1009">
+<img width="1440" alt="Снимок экрана 2023-08-15 в 23 24 24" src="https://github.com/tetianaom/goit-node-hw-01/assets/111342334/1c33e4ab-bc7b-4ae2-944b-29b2ccdfbba6">
